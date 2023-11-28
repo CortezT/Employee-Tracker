@@ -11,7 +11,7 @@ Open intigrated terminal right click on "index.js" and an option to "open intera
 
 
 the following is a link showing the functionality of the Employee Tracker:
-[Employee Tracker demo.webm](https://github.com/CortezT/Employee-Tracker/assets/126823522/0ef770cd-519b-40b2-a66f-d87af50ceeb5)
+[Employee Tracker demo.webm](https://github.com/CortezT/Employee-Tracker/assets/126823522/443638fe-d235-48fe-a2da-0101799c55f0)
 
 
 ## License
