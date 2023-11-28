@@ -64,7 +64,7 @@ function viewDepartments() {
         if (err) throw err;
 
         console.table(results);
-        startApp(); // Return to the main menu
+        startApp(); 
     });
 }
 
@@ -74,7 +74,7 @@ function viewRoles() {
         if (err) throw err;
 
         console.table(results);
-        startApp(); // Return to the main menu
+        startApp();
     });
 }
 
@@ -84,7 +84,7 @@ function viewEmployees() {
         if (err) throw err;
 
         console.table(results);
-        startApp(); // Return to the main menu
+        startApp();
     });
 }
 
@@ -103,7 +103,7 @@ function addDepartment() {
                 if (err) throw err;
 
                 console.log('Department added successfully!');
-                startApp(); // Return to the main menu
+                startApp();
             });
         });
 }
@@ -135,7 +135,7 @@ function addRole() {
                 if (err) throw err;
 
                 console.log('Role added successfully!');
-                startApp(); // Return to the main menu
+                startApp();
             });
         });
 }
@@ -174,16 +174,12 @@ function addEmployee() {
                 if (err) throw err;
 
                 console.log('Employee added successfully!');
-                startApp(); // Return to the main menu
+                startApp();
             });
         });
 }
 
 function updateEmployeeRole() {
-    // Implementation for updating an employee's role
-    // You can follow a similar pattern as in the other functions
-    // You will need to prompt the user for the necessary information
-    // and then execute an UPDATE query on the employee table
     console.log('Update employee role functionality not implemented yet.');
-    startApp(); // Return to the main menu
+    startApp();
 }
